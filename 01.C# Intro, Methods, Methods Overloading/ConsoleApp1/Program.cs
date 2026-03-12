@@ -52,28 +52,31 @@
 //{
 //    public static void Main(string[] args)
 //    {
-//        int[] numbers = [14, 20, 35, 40, 57, 60, 100];
-//        for (int i = 0; i < numbers.Length; i++)
+//        int[] numbers = { 14, 20, 35, 40, 57, 60, 100 };
+//        Even(numbers);
+//        Odd(numbers);
+//    }
+
+//    public static void Even(int[] num)
+//    {
+//        for (int i = 0; i < num.Length; i++)
 //        {
-//            if (Even(numbers[i])) 
+//            if (num[i] % 2 == 0)
 //            {
-//                Console.WriteLine($"Cut ededdir : {numbers[i]}");
-//            }
-//            if (Odd(numbers[i])) 
-//            {
-//                Console.WriteLine($"Tek ededdir : {numbers[i]}");
+//                Console.WriteLine($"Cut ededdir: {num[i]}");
 //            }
 //        }
 //    }
 
-//    public static bool Even(int num)
+//    public static void Odd(int[] num)
 //    {
-//        return num % 2 == 0;
-//    }
-
-//    public static bool Odd(int num)
-//    {
-//        return num % 2 != 0;
+//        for (int i = 0; i < num.Length; i++)
+//        {
+//            if (num[i] % 2 != 0)
+//            {
+//                Console.WriteLine($"Tek ededdir: {num[i]}");
+//            }
+//        }
 //    }
 //}
 
@@ -83,46 +86,46 @@
 //{
 //    public static void Main(string[] args)
 //    {
-//        int[] numbers = [14, 20, 35, 40, 57, 60, 100];
-//        int sum = 0;
-//        for (int i = 0; i < numbers.Length; i++)
+//        int[] list = { 14, 20, 35, 40, 57, 60, 100 };
+//        Divide(list);
+//    }
+//    public static void Divide(int[] num)
+//    {
+//        for (int i = 0; i < num.Length; i++)
 //        {
-//            if (Divide(numbers[i]))
+//            if (num[i] % 4 == 0 && num[i] % 5 == 0)
 //            {
-//                sum += numbers[i];
+//                Console.WriteLine(num[i]);
 //            }
 //        }
-//        Console.WriteLine(sum);
-//    }
-//    public static bool Divide(int num)
-//    {
-//        return (num % 4 == 0 && num % 5 == 0);
 //    }
 //}
+
 
 //4.Daxil edilmiş cümlədə daxil edilmis simvoldan nece eded olduğunu tapan Proqramın alqoritmini yazin.(Cumle serbestdir)
 
 
-class Program
-{
-    public static void Main(string[] args)
-    {
-        Console.Write("Soz: ");
-        Console.WriteLine(Text(Console.ReadLine()));
-    }
-    public static int Text(string text)
-    {
-        int count = 0;
-        Console.Write("Tapilmali herf sayi: ");
-        char symbol = Convert.ToChar(Console.ReadLine());
-        for (int i = 0; i < text.Length; i++)
-        {
+//class Program
+//{
+//    public static void Main(string[] args)
+//    {
+//        Console.Write("Soz: ");
+//        Console.WriteLine(Text(Console.ReadLine()));
+//    }
+//    public static int Text(string text)
+//    {
+//        int count = 0;
+//        Console.Write("Tapilmali herf sayi: ");
+//        char symbol = Convert.ToChar(Console.ReadLine());
+//        for (int i = 0; i < text.Length; i++)
+//        {
 
-            if (text[i] == symbol)
-            {
-                count++;
-            }
-        }
-        return count;
-    }
-}
+//            if (text[i] == symbol)
+//            {
+//                count++;
+//            }
+//        }
+//        return count;
+//    }
+//}
+
