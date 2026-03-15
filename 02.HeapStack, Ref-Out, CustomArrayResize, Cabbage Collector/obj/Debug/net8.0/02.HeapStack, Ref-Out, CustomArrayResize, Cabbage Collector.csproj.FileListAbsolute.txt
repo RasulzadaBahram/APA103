@@ -1,0 +1,15 @@
+C:\Users\Behram\Desktop\APA103\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector\bin\Debug\net8.0\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector.exe
+C:\Users\Behram\Desktop\APA103\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector\bin\Debug\net8.0\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector.deps.json
+C:\Users\Behram\Desktop\APA103\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector\bin\Debug\net8.0\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector.runtimeconfig.json
+C:\Users\Behram\Desktop\APA103\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector\bin\Debug\net8.0\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector.dll
+C:\Users\Behram\Desktop\APA103\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector\bin\Debug\net8.0\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector.pdb
+C:\Users\Behram\Desktop\APA103\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector\obj\Debug\net8.0\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Behram\Desktop\APA103\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector\obj\Debug\net8.0\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector.AssemblyInfoInputs.cache
+C:\Users\Behram\Desktop\APA103\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector\obj\Debug\net8.0\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector.AssemblyInfo.cs
+C:\Users\Behram\Desktop\APA103\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector\obj\Debug\net8.0\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector.csproj.CoreCompileInputs.cache
+C:\Users\Behram\Desktop\APA103\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector\obj\Debug\net8.0\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector.sourcelink.json
+C:\Users\Behram\Desktop\APA103\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector\obj\Debug\net8.0\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector.dll
+C:\Users\Behram\Desktop\APA103\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector\obj\Debug\net8.0\refint\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector.dll
+C:\Users\Behram\Desktop\APA103\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector\obj\Debug\net8.0\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector.pdb
+C:\Users\Behram\Desktop\APA103\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector\obj\Debug\net8.0\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector.genruntimeconfig.cache
+C:\Users\Behram\Desktop\APA103\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector\obj\Debug\net8.0\ref\02.HeapStack, Ref-Out, CustomArrayResize, Cabbage Collector.dll
