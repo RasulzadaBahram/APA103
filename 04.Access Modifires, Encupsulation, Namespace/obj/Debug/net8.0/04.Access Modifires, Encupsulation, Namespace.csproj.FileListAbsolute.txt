@@ -1,0 +1,15 @@
+C:\Users\Behram\Desktop\APA103\04.Access Modifires, Encupsulation, Namespace\obj\Debug\net8.0\04.Access Modifires, Encupsulation, Namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Behram\Desktop\APA103\04.Access Modifires, Encupsulation, Namespace\obj\Debug\net8.0\04.Access Modifires, Encupsulation, Namespace.AssemblyInfoInputs.cache
+C:\Users\Behram\Desktop\APA103\04.Access Modifires, Encupsulation, Namespace\obj\Debug\net8.0\04.Access Modifires, Encupsulation, Namespace.AssemblyInfo.cs
+C:\Users\Behram\Desktop\APA103\04.Access Modifires, Encupsulation, Namespace\obj\Debug\net8.0\04.Access Modifires, Encupsulation, Namespace.csproj.CoreCompileInputs.cache
+C:\Users\Behram\Desktop\APA103\04.Access Modifires, Encupsulation, Namespace\obj\Debug\net8.0\04.Access Modifires, Encupsulation, Namespace.sourcelink.json
+C:\Users\Behram\Desktop\APA103\04.Access Modifires, Encupsulation, Namespace\bin\Debug\net8.0\04.Access Modifires, Encupsulation, Namespace.exe
+C:\Users\Behram\Desktop\APA103\04.Access Modifires, Encupsulation, Namespace\bin\Debug\net8.0\04.Access Modifires, Encupsulation, Namespace.deps.json
+C:\Users\Behram\Desktop\APA103\04.Access Modifires, Encupsulation, Namespace\bin\Debug\net8.0\04.Access Modifires, Encupsulation, Namespace.runtimeconfig.json
+C:\Users\Behram\Desktop\APA103\04.Access Modifires, Encupsulation, Namespace\bin\Debug\net8.0\04.Access Modifires, Encupsulation, Namespace.dll
+C:\Users\Behram\Desktop\APA103\04.Access Modifires, Encupsulation, Namespace\bin\Debug\net8.0\04.Access Modifires, Encupsulation, Namespace.pdb
+C:\Users\Behram\Desktop\APA103\04.Access Modifires, Encupsulation, Namespace\obj\Debug\net8.0\04.Access Modifires, Encupsulation, Namespace.dll
+C:\Users\Behram\Desktop\APA103\04.Access Modifires, Encupsulation, Namespace\obj\Debug\net8.0\refint\04.Access Modifires, Encupsulation, Namespace.dll
+C:\Users\Behram\Desktop\APA103\04.Access Modifires, Encupsulation, Namespace\obj\Debug\net8.0\04.Access Modifires, Encupsulation, Namespace.pdb
+C:\Users\Behram\Desktop\APA103\04.Access Modifires, Encupsulation, Namespace\obj\Debug\net8.0\04.Access Modifires, Encupsulation, Namespace.genruntimeconfig.cache
+C:\Users\Behram\Desktop\APA103\04.Access Modifires, Encupsulation, Namespace\obj\Debug\net8.0\ref\04.Access Modifires, Encupsulation, Namespace.dll
