@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Abstract class, Polymorphism, ForEach", "05-Abstract class, Polymorphism, ForEach.csproj", "{030D97EC-EDEC-4C58-A733-3617EC5E6911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{030D97EC-EDEC-4C58-A733-3617EC5E6911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030D97EC-EDEC-4C58-A733-3617EC5E6911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030D97EC-EDEC-4C58-A733-3617EC5E6911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030D97EC-EDEC-4C58-A733-3617EC5E6911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F594D10A-390D-4C17-A2AD-E71DA99944EB}
+	EndGlobalSection
+EndGlobal

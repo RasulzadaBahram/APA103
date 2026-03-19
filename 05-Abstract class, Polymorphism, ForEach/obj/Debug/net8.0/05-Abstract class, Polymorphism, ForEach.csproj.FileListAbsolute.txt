@@ -1,0 +1,15 @@
+C:\Users\Behram\Desktop\APA103\05-Abstract class, Polymorphism, ForEach\obj\Debug\net8.0\05-Abstract class, Polymorphism, ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Behram\Desktop\APA103\05-Abstract class, Polymorphism, ForEach\obj\Debug\net8.0\05-Abstract class, Polymorphism, ForEach.AssemblyInfoInputs.cache
+C:\Users\Behram\Desktop\APA103\05-Abstract class, Polymorphism, ForEach\obj\Debug\net8.0\05-Abstract class, Polymorphism, ForEach.AssemblyInfo.cs
+C:\Users\Behram\Desktop\APA103\05-Abstract class, Polymorphism, ForEach\obj\Debug\net8.0\05-Abstract class, Polymorphism, ForEach.csproj.CoreCompileInputs.cache
+C:\Users\Behram\Desktop\APA103\05-Abstract class, Polymorphism, ForEach\obj\Debug\net8.0\05-Abstract class, Polymorphism, ForEach.sourcelink.json
+C:\Users\Behram\Desktop\APA103\05-Abstract class, Polymorphism, ForEach\bin\Debug\net8.0\05-Abstract class, Polymorphism, ForEach.exe
+C:\Users\Behram\Desktop\APA103\05-Abstract class, Polymorphism, ForEach\bin\Debug\net8.0\05-Abstract class, Polymorphism, ForEach.deps.json
+C:\Users\Behram\Desktop\APA103\05-Abstract class, Polymorphism, ForEach\bin\Debug\net8.0\05-Abstract class, Polymorphism, ForEach.runtimeconfig.json
+C:\Users\Behram\Desktop\APA103\05-Abstract class, Polymorphism, ForEach\bin\Debug\net8.0\05-Abstract class, Polymorphism, ForEach.dll
+C:\Users\Behram\Desktop\APA103\05-Abstract class, Polymorphism, ForEach\bin\Debug\net8.0\05-Abstract class, Polymorphism, ForEach.pdb
+C:\Users\Behram\Desktop\APA103\05-Abstract class, Polymorphism, ForEach\obj\Debug\net8.0\05-Abstract class, Polymorphism, ForEach.dll
+C:\Users\Behram\Desktop\APA103\05-Abstract class, Polymorphism, ForEach\obj\Debug\net8.0\refint\05-Abstract class, Polymorphism, ForEach.dll
+C:\Users\Behram\Desktop\APA103\05-Abstract class, Polymorphism, ForEach\obj\Debug\net8.0\05-Abstract class, Polymorphism, ForEach.pdb
+C:\Users\Behram\Desktop\APA103\05-Abstract class, Polymorphism, ForEach\obj\Debug\net8.0\05-Abstract class, Polymorphism, ForEach.genruntimeconfig.cache
+C:\Users\Behram\Desktop\APA103\05-Abstract class, Polymorphism, ForEach\obj\Debug\net8.0\ref\05-Abstract class, Polymorphism, ForEach.dll
