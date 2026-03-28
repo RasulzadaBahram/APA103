@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04.Access Modifires, Encupsulation, Namespace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0988ca7f279040060ffecaf347f6e7d68173eb35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4f6e278bb56facb24d0077d217f5049195c2ff7")]
 [assembly: System.Reflection.AssemblyProductAttribute("04.Access Modifires, Encupsulation, Namespace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04.Access Modifires, Encupsulation, Namespace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

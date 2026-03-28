@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03.Object, Class, Constructor, Inheritance, this vs base keywords")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6f1ec95b2dfa800eb567ac583cb4d24c3cb2b19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93ff336c64e87fda006b10e16e7ae024e240e86b")]
 [assembly: System.Reflection.AssemblyProductAttribute("03.Object, Class, Constructor, Inheritance, this vs base keywords")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03.Object, Class, Constructor, Inheritance, this vs base keywords")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -38,12 +38,11 @@
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\03.Object, Class, Constructor, Inheritance, this vs base keywords\\Models\\Person.cs",
               "RelativeDocumentMoniker": "Models\\Person.cs",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\03.Object, Class, Constructor, Inheritance, this vs base keywords\\Models\\Person.cs*",
-              "RelativeToolTip": "Models\\Person.cs*",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\03.Object, Class, Constructor, Inheritance, this vs base keywords\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAApwAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T02:50:50.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T02:50:50.452Z"
             },
             {
               "$type": "Document",
@@ -51,12 +50,11 @@
               "Title": "Administrator.cs",
               "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\03.Object, Class, Constructor, Inheritance, this vs base keywords\\Models\\Administrator.cs",
               "RelativeDocumentMoniker": "Models\\Administrator.cs",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\03.Object, Class, Constructor, Inheritance, this vs base keywords\\Models\\Administrator.cs*",
-              "RelativeToolTip": "Models\\Administrator.cs*",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\03.Object, Class, Constructor, Inheritance, this vs base keywords\\Models\\Administrator.cs",
+              "RelativeToolTip": "Models\\Administrator.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAApwAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T18:23:14.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T18:23:14.018Z"
             },
             {
               "$type": "Document",
@@ -64,12 +62,11 @@
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\03.Object, Class, Constructor, Inheritance, this vs base keywords\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "Models\\Teacher.cs",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\03.Object, Class, Constructor, Inheritance, this vs base keywords\\Models\\Teacher.cs*",
-              "RelativeToolTip": "Models\\Teacher.cs*",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\03.Object, Class, Constructor, Inheritance, this vs base keywords\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T18:23:03.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T18:23:03.617Z"
             },
             {
               "$type": "Document",
@@ -77,12 +74,11 @@
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\03.Object, Class, Constructor, Inheritance, this vs base keywords\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\03.Object, Class, Constructor, Inheritance, this vs base keywords\\Models\\Student.cs*",
-              "RelativeToolTip": "Models\\Student.cs*",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\03.Object, Class, Constructor, Inheritance, this vs base keywords\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T18:22:53.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T18:22:53.969Z"
             },
             {
               "$type": "Document",
@@ -90,9 +86,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\03.Object, Class, Constructor, Inheritance, this vs base keywords\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\03.Object, Class, Constructor, Inheritance, this vs base keywords\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\03.Object, Class, Constructor, Inheritance, this vs base keywords\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T18:21:55.138Z",
               "EditorCaption": ""

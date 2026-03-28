@@ -1,0 +1,15 @@
+C:\Users\Behram\Desktop\APA103\06.Interface, Abstraction, Static Members\obj\Debug\net8.0\06.Interface, Abstraction, Static Members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Behram\Desktop\APA103\06.Interface, Abstraction, Static Members\obj\Debug\net8.0\06.Interface, Abstraction, Static Members.AssemblyInfoInputs.cache
+C:\Users\Behram\Desktop\APA103\06.Interface, Abstraction, Static Members\obj\Debug\net8.0\06.Interface, Abstraction, Static Members.AssemblyInfo.cs
+C:\Users\Behram\Desktop\APA103\06.Interface, Abstraction, Static Members\obj\Debug\net8.0\06.Interface, Abstraction, Static Members.csproj.CoreCompileInputs.cache
+C:\Users\Behram\Desktop\APA103\06.Interface, Abstraction, Static Members\obj\Debug\net8.0\06.Interface, Abstraction, Static Members.sourcelink.json
+C:\Users\Behram\Desktop\APA103\06.Interface, Abstraction, Static Members\bin\Debug\net8.0\06.Interface, Abstraction, Static Members.exe
+C:\Users\Behram\Desktop\APA103\06.Interface, Abstraction, Static Members\bin\Debug\net8.0\06.Interface, Abstraction, Static Members.deps.json
+C:\Users\Behram\Desktop\APA103\06.Interface, Abstraction, Static Members\bin\Debug\net8.0\06.Interface, Abstraction, Static Members.runtimeconfig.json
+C:\Users\Behram\Desktop\APA103\06.Interface, Abstraction, Static Members\bin\Debug\net8.0\06.Interface, Abstraction, Static Members.dll
+C:\Users\Behram\Desktop\APA103\06.Interface, Abstraction, Static Members\bin\Debug\net8.0\06.Interface, Abstraction, Static Members.pdb
+C:\Users\Behram\Desktop\APA103\06.Interface, Abstraction, Static Members\obj\Debug\net8.0\06.Interface, Abstraction, Static Members.dll
+C:\Users\Behram\Desktop\APA103\06.Interface, Abstraction, Static Members\obj\Debug\net8.0\refint\06.Interface, Abstraction, Static Members.dll
+C:\Users\Behram\Desktop\APA103\06.Interface, Abstraction, Static Members\obj\Debug\net8.0\06.Interface, Abstraction, Static Members.pdb
+C:\Users\Behram\Desktop\APA103\06.Interface, Abstraction, Static Members\obj\Debug\net8.0\06.Interface, Abstraction, Static Members.genruntimeconfig.cache
+C:\Users\Behram\Desktop\APA103\06.Interface, Abstraction, Static Members\obj\Debug\net8.0\ref\06.Interface, Abstraction, Static Members.dll

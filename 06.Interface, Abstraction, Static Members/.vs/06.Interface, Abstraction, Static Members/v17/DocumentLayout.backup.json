@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Behram\\Desktop\\APA103\\06.Interface, Abstraction, Static Members\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{491B31F6-F6B3-4D78-AABF-BED5653C3011}|06.Interface, Abstraction, Static Members.csproj|c:\\users\\behram\\desktop\\apa103\\06.interface, abstraction, static members\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491B31F6-F6B3-4D78-AABF-BED5653C3011}|06.Interface, Abstraction, Static Members.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491B31F6-F6B3-4D78-AABF-BED5653C3011}|06.Interface, Abstraction, Static Members.csproj|c:\\users\\behram\\desktop\\apa103\\06.interface, abstraction, static members\\models\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491B31F6-F6B3-4D78-AABF-BED5653C3011}|06.Interface, Abstraction, Static Members.csproj|solutionrelative:models\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491B31F6-F6B3-4D78-AABF-BED5653C3011}|06.Interface, Abstraction, Static Members.csproj|c:\\users\\behram\\desktop\\apa103\\06.interface, abstraction, static members\\interfaces\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491B31F6-F6B3-4D78-AABF-BED5653C3011}|06.Interface, Abstraction, Static Members.csproj|solutionrelative:interfaces\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Behram\\Desktop\\APA103\\05-Abstract class, Polymorphism, ForEach\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\06.Interface, Abstraction, Static Members\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\06.Interface, Abstraction, Static Members\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T17:24:13.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\05-Abstract class, Polymorphism, ForEach\\Program.cs",
+              "RelativeDocumentMoniker": "..\\05-Abstract class, Polymorphism, ForEach\\Program.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\05-Abstract class, Polymorphism, ForEach\\Program.cs",
+              "RelativeToolTip": "..\\05-Abstract class, Polymorphism, ForEach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T15:31:05.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\06.Interface, Abstraction, Static Members\\Models\\Calculation.cs",
+              "RelativeDocumentMoniker": "Models\\Calculation.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\06.Interface, Abstraction, Static Members\\Models\\Calculation.cs",
+              "RelativeToolTip": "Models\\Calculation.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T15:22:11.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICalculation.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\06.Interface, Abstraction, Static Members\\Interfaces\\ICalculation.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICalculation.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\06.Interface, Abstraction, Static Members\\Interfaces\\ICalculation.cs",
+              "RelativeToolTip": "Interfaces\\ICalculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T15:22:00.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

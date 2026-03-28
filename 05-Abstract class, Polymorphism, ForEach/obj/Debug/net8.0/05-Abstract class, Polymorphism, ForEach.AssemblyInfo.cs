@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05-Abstract class, Polymorphism, ForEach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93ff336c64e87fda006b10e16e7ae024e240e86b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4f6e278bb56facb24d0077d217f5049195c2ff7")]
 [assembly: System.Reflection.AssemblyProductAttribute("05-Abstract class, Polymorphism, ForEach")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05-Abstract class, Polymorphism, ForEach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
