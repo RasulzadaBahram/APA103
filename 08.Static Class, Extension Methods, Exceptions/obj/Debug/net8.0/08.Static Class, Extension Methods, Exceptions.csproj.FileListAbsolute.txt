@@ -1,0 +1,15 @@
+C:\Users\Behram\Desktop\APA103\08.Static Class, Extension Methods, Exceptions\obj\Debug\net8.0\08.Static Class, Extension Methods, Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Behram\Desktop\APA103\08.Static Class, Extension Methods, Exceptions\obj\Debug\net8.0\08.Static Class, Extension Methods, Exceptions.AssemblyInfoInputs.cache
+C:\Users\Behram\Desktop\APA103\08.Static Class, Extension Methods, Exceptions\obj\Debug\net8.0\08.Static Class, Extension Methods, Exceptions.AssemblyInfo.cs
+C:\Users\Behram\Desktop\APA103\08.Static Class, Extension Methods, Exceptions\obj\Debug\net8.0\08.Static Class, Extension Methods, Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Behram\Desktop\APA103\08.Static Class, Extension Methods, Exceptions\obj\Debug\net8.0\08.Static Class, Extension Methods, Exceptions.sourcelink.json
+C:\Users\Behram\Desktop\APA103\08.Static Class, Extension Methods, Exceptions\bin\Debug\net8.0\08.Static Class, Extension Methods, Exceptions.exe
+C:\Users\Behram\Desktop\APA103\08.Static Class, Extension Methods, Exceptions\bin\Debug\net8.0\08.Static Class, Extension Methods, Exceptions.deps.json
+C:\Users\Behram\Desktop\APA103\08.Static Class, Extension Methods, Exceptions\bin\Debug\net8.0\08.Static Class, Extension Methods, Exceptions.runtimeconfig.json
+C:\Users\Behram\Desktop\APA103\08.Static Class, Extension Methods, Exceptions\bin\Debug\net8.0\08.Static Class, Extension Methods, Exceptions.dll
+C:\Users\Behram\Desktop\APA103\08.Static Class, Extension Methods, Exceptions\bin\Debug\net8.0\08.Static Class, Extension Methods, Exceptions.pdb
+C:\Users\Behram\Desktop\APA103\08.Static Class, Extension Methods, Exceptions\obj\Debug\net8.0\08.Static Class, Extension Methods, Exceptions.dll
+C:\Users\Behram\Desktop\APA103\08.Static Class, Extension Methods, Exceptions\obj\Debug\net8.0\refint\08.Static Class, Extension Methods, Exceptions.dll
+C:\Users\Behram\Desktop\APA103\08.Static Class, Extension Methods, Exceptions\obj\Debug\net8.0\08.Static Class, Extension Methods, Exceptions.pdb
+C:\Users\Behram\Desktop\APA103\08.Static Class, Extension Methods, Exceptions\obj\Debug\net8.0\08.Static Class, Extension Methods, Exceptions.genruntimeconfig.cache
+C:\Users\Behram\Desktop\APA103\08.Static Class, Extension Methods, Exceptions\obj\Debug\net8.0\ref\08.Static Class, Extension Methods, Exceptions.dll

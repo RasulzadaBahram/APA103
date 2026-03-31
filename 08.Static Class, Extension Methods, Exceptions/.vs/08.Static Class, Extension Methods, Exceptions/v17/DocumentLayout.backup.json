@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Behram\\Desktop\\APA103\\08.Static Class, Extension Methods, Exceptions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5173EA02-DF33-46A7-AA49-8F7C04518C96}|08.Static Class, Extension Methods, Exceptions.csproj|c:\\users\\behram\\desktop\\apa103\\08.static class, extension methods, exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5173EA02-DF33-46A7-AA49-8F7C04518C96}|08.Static Class, Extension Methods, Exceptions.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5173EA02-DF33-46A7-AA49-8F7C04518C96}|08.Static Class, Extension Methods, Exceptions.csproj|c:\\users\\behram\\desktop\\apa103\\08.static class, extension methods, exceptions\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5173EA02-DF33-46A7-AA49-8F7C04518C96}|08.Static Class, Extension Methods, Exceptions.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5173EA02-DF33-46A7-AA49-8F7C04518C96}|08.Static Class, Extension Methods, Exceptions.csproj|c:\\users\\behram\\desktop\\apa103\\08.static class, extension methods, exceptions\\models\\loginsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5173EA02-DF33-46A7-AA49-8F7C04518C96}|08.Static Class, Extension Methods, Exceptions.csproj|solutionrelative:models\\loginsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5173EA02-DF33-46A7-AA49-8F7C04518C96}|08.Static Class, Extension Methods, Exceptions.csproj|c:\\users\\behram\\desktop\\apa103\\08.static class, extension methods, exceptions\\utilities\\exceptions\\incorrectpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5173EA02-DF33-46A7-AA49-8F7C04518C96}|08.Static Class, Extension Methods, Exceptions.csproj|solutionrelative:utilities\\exceptions\\incorrectpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5173EA02-DF33-46A7-AA49-8F7C04518C96}|08.Static Class, Extension Methods, Exceptions.csproj|c:\\users\\behram\\desktop\\apa103\\08.static class, extension methods, exceptions\\utilities\\exceptions\\accountlockedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5173EA02-DF33-46A7-AA49-8F7C04518C96}|08.Static Class, Extension Methods, Exceptions.csproj|solutionrelative:utilities\\exceptions\\accountlockedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5173EA02-DF33-46A7-AA49-8F7C04518C96}|08.Static Class, Extension Methods, Exceptions.csproj|c:\\users\\behram\\desktop\\apa103\\08.static class, extension methods, exceptions\\utilities\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5173EA02-DF33-46A7-AA49-8F7C04518C96}|08.Static Class, Extension Methods, Exceptions.csproj|solutionrelative:utilities\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5173EA02-DF33-46A7-AA49-8F7C04518C96}|08.Static Class, Extension Methods, Exceptions.csproj|c:\\users\\behram\\desktop\\apa103\\08.static class, extension methods, exceptions\\utilities\\exceptions\\invalidusernameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5173EA02-DF33-46A7-AA49-8F7C04518C96}|08.Static Class, Extension Methods, Exceptions.csproj|solutionrelative:utilities\\exceptions\\invalidusernameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5173EA02-DF33-46A7-AA49-8F7C04518C96}|08.Static Class, Extension Methods, Exceptions.csproj|c:\\users\\behram\\desktop\\apa103\\08.static class, extension methods, exceptions\\utilities\\exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5173EA02-DF33-46A7-AA49-8F7C04518C96}|08.Static Class, Extension Methods, Exceptions.csproj|solutionrelative:utilities\\exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvalidUsernameException.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\08.Static Class, Extension Methods, Exceptions\\Utilities\\Exceptions\\InvalidUsernameException.cs",
+              "RelativeDocumentMoniker": "Utilities\\Exceptions\\InvalidUsernameException.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\08.Static Class, Extension Methods, Exceptions\\Utilities\\Exceptions\\InvalidUsernameException.cs",
+              "RelativeToolTip": "Utilities\\Exceptions\\InvalidUsernameException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:52:08.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\08.Static Class, Extension Methods, Exceptions\\Models\\LoginSystem.cs",
+              "RelativeDocumentMoniker": "Models\\LoginSystem.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\08.Static Class, Extension Methods, Exceptions\\Models\\LoginSystem.cs",
+              "RelativeToolTip": "Models\\LoginSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:08:48.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\08.Static Class, Extension Methods, Exceptions\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\08.Static Class, Extension Methods, Exceptions\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:08:33.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountLockedException.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\08.Static Class, Extension Methods, Exceptions\\Utilities\\Exceptions\\AccountLockedException.cs",
+              "RelativeDocumentMoniker": "Utilities\\Exceptions\\AccountLockedException.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\08.Static Class, Extension Methods, Exceptions\\Utilities\\Exceptions\\AccountLockedException.cs",
+              "RelativeToolTip": "Utilities\\Exceptions\\AccountLockedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:08:08.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IncorrectPasswordException.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\08.Static Class, Extension Methods, Exceptions\\Utilities\\Exceptions\\IncorrectPasswordException.cs",
+              "RelativeDocumentMoniker": "Utilities\\Exceptions\\IncorrectPasswordException.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\08.Static Class, Extension Methods, Exceptions\\Utilities\\Exceptions\\IncorrectPasswordException.cs",
+              "RelativeToolTip": "Utilities\\Exceptions\\IncorrectPasswordException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:07:48.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\08.Static Class, Extension Methods, Exceptions\\Utilities\\Exceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "Utilities\\Exceptions\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\08.Static Class, Extension Methods, Exceptions\\Utilities\\Exceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "Utilities\\Exceptions\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:07:39.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvalidPasswordException.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\08.Static Class, Extension Methods, Exceptions\\Utilities\\Exceptions\\InvalidPasswordException.cs",
+              "RelativeDocumentMoniker": "Utilities\\Exceptions\\InvalidPasswordException.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\08.Static Class, Extension Methods, Exceptions\\Utilities\\Exceptions\\InvalidPasswordException.cs",
+              "RelativeToolTip": "Utilities\\Exceptions\\InvalidPasswordException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:07:32.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\08.Static Class, Extension Methods, Exceptions\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\08.Static Class, Extension Methods, Exceptions\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAnwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:02:11.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

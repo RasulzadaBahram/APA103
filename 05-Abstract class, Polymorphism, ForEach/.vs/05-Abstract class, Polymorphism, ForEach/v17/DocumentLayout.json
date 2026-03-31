@@ -54,8 +54,7 @@
               "RelativeToolTip": "Models\\Truck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T00:37:44.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T00:37:44.476Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "Models\\Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T00:37:39.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T00:37:39.824Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "Models\\Vehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T00:37:30.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T00:37:30.544Z"
             },
             {
               "$type": "Document",
@@ -89,9 +86,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\05-Abstract class, Polymorphism, ForEach\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\05-Abstract class, Polymorphism, ForEach\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAAAsAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\05-Abstract class, Polymorphism, ForEach\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T00:36:43.95Z",
               "EditorCaption": ""

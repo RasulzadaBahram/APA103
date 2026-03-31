@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "07.Nullable, Enum, Struct/1.0.0": {
+        "runtime": {
+          "07.Nullable, Enum, Struct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07.Nullable, Enum, Struct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

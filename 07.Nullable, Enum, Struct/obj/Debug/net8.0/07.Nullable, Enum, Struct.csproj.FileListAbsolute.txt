@@ -1,0 +1,15 @@
+C:\Users\Behram\Desktop\APA103\07.Nullable, Enum, Struct\obj\Debug\net8.0\07.Nullable, Enum, Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Behram\Desktop\APA103\07.Nullable, Enum, Struct\obj\Debug\net8.0\07.Nullable, Enum, Struct.AssemblyInfoInputs.cache
+C:\Users\Behram\Desktop\APA103\07.Nullable, Enum, Struct\obj\Debug\net8.0\07.Nullable, Enum, Struct.AssemblyInfo.cs
+C:\Users\Behram\Desktop\APA103\07.Nullable, Enum, Struct\obj\Debug\net8.0\07.Nullable, Enum, Struct.csproj.CoreCompileInputs.cache
+C:\Users\Behram\Desktop\APA103\07.Nullable, Enum, Struct\obj\Debug\net8.0\07.Nullable, Enum, Struct.sourcelink.json
+C:\Users\Behram\Desktop\APA103\07.Nullable, Enum, Struct\bin\Debug\net8.0\07.Nullable, Enum, Struct.exe
+C:\Users\Behram\Desktop\APA103\07.Nullable, Enum, Struct\bin\Debug\net8.0\07.Nullable, Enum, Struct.deps.json
+C:\Users\Behram\Desktop\APA103\07.Nullable, Enum, Struct\bin\Debug\net8.0\07.Nullable, Enum, Struct.runtimeconfig.json
+C:\Users\Behram\Desktop\APA103\07.Nullable, Enum, Struct\bin\Debug\net8.0\07.Nullable, Enum, Struct.dll
+C:\Users\Behram\Desktop\APA103\07.Nullable, Enum, Struct\bin\Debug\net8.0\07.Nullable, Enum, Struct.pdb
+C:\Users\Behram\Desktop\APA103\07.Nullable, Enum, Struct\obj\Debug\net8.0\07.Nullable, Enum, Struct.dll
+C:\Users\Behram\Desktop\APA103\07.Nullable, Enum, Struct\obj\Debug\net8.0\refint\07.Nullable, Enum, Struct.dll
+C:\Users\Behram\Desktop\APA103\07.Nullable, Enum, Struct\obj\Debug\net8.0\07.Nullable, Enum, Struct.pdb
+C:\Users\Behram\Desktop\APA103\07.Nullable, Enum, Struct\obj\Debug\net8.0\07.Nullable, Enum, Struct.genruntimeconfig.cache
+C:\Users\Behram\Desktop\APA103\07.Nullable, Enum, Struct\obj\Debug\net8.0\ref\07.Nullable, Enum, Struct.dll

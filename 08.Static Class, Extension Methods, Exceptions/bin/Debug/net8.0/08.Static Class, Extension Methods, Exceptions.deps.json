@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "08.Static Class, Extension Methods, Exceptions/1.0.0": {
+        "runtime": {
+          "08.Static Class, Extension Methods, Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "08.Static Class, Extension Methods, Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
