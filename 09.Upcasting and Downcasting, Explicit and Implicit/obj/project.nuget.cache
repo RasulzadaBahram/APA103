@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "8aHKMgeF13Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Behram\\Desktop\\APA103\\09.Upcasting and Downcasting, Explicit and Implicit\\09.Upcasting and Downcasting, Explicit and Implicit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Behram\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\Behram\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\Behram\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.23\\microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\Behram\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.23\\microsoft.netcore.app.host.win-x64.8.0.23.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\Behram\\Desktop\\APA103\\09.Upcasting and Downcasting, Explicit and Implicit\\09.Upcasting and Downcasting, Explicit and Implicit.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Behram\\Desktop\\APA103\\09.Upcasting and Downcasting, Explicit and Implicit\\09.Upcasting and Downcasting, Explicit and Implicit.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Behram\\Desktop\\APA103\\09.Upcasting and Downcasting, Explicit and Implicit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72325CAA-C01A-47A9-AB80-BFF177E1C888}|09.Upcasting and Downcasting, Explicit and Implicit.csproj|c:\\users\\behram\\desktop\\apa103\\09.upcasting and downcasting, explicit and implicit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72325CAA-C01A-47A9-AB80-BFF177E1C888}|09.Upcasting and Downcasting, Explicit and Implicit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72325CAA-C01A-47A9-AB80-BFF177E1C888}|09.Upcasting and Downcasting, Explicit and Implicit.csproj|c:\\users\\behram\\desktop\\apa103\\09.upcasting and downcasting, explicit and implicit\\models\\manat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72325CAA-C01A-47A9-AB80-BFF177E1C888}|09.Upcasting and Downcasting, Explicit and Implicit.csproj|solutionrelative:models\\manat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72325CAA-C01A-47A9-AB80-BFF177E1C888}|09.Upcasting and Downcasting, Explicit and Implicit.csproj|c:\\users\\behram\\desktop\\apa103\\09.upcasting and downcasting, explicit and implicit\\models\\dollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72325CAA-C01A-47A9-AB80-BFF177E1C888}|09.Upcasting and Downcasting, Explicit and Implicit.csproj|solutionrelative:models\\dollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72325CAA-C01A-47A9-AB80-BFF177E1C888}|09.Upcasting and Downcasting, Explicit and Implicit.csproj|c:\\users\\behram\\desktop\\apa103\\09.upcasting and downcasting, explicit and implicit\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72325CAA-C01A-47A9-AB80-BFF177E1C888}|09.Upcasting and Downcasting, Explicit and Implicit.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72325CAA-C01A-47A9-AB80-BFF177E1C888}|09.Upcasting and Downcasting, Explicit and Implicit.csproj|c:\\users\\behram\\desktop\\apa103\\09.upcasting and downcasting, explicit and implicit\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72325CAA-C01A-47A9-AB80-BFF177E1C888}|09.Upcasting and Downcasting, Explicit and Implicit.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72325CAA-C01A-47A9-AB80-BFF177E1C888}|09.Upcasting and Downcasting, Explicit and Implicit.csproj|c:\\users\\behram\\desktop\\apa103\\09.upcasting and downcasting, explicit and implicit\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72325CAA-C01A-47A9-AB80-BFF177E1C888}|09.Upcasting and Downcasting, Explicit and Implicit.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manat.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\09.Upcasting and Downcasting, Explicit and Implicit\\Models\\Manat.cs",
+              "RelativeDocumentMoniker": "Models\\Manat.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\09.Upcasting and Downcasting, Explicit and Implicit\\Models\\Manat.cs*",
+              "RelativeToolTip": "Models\\Manat.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T01:56:28.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dollar.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\09.Upcasting and Downcasting, Explicit and Implicit\\Models\\Dollar.cs",
+              "RelativeDocumentMoniker": "Models\\Dollar.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\09.Upcasting and Downcasting, Explicit and Implicit\\Models\\Dollar.cs*",
+              "RelativeToolTip": "Models\\Dollar.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T01:56:10.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\09.Upcasting and Downcasting, Explicit and Implicit\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\09.Upcasting and Downcasting, Explicit and Implicit\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T01:17:45.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\09.Upcasting and Downcasting, Explicit and Implicit\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\09.Upcasting and Downcasting, Explicit and Implicit\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T01:12:57.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\09.Upcasting and Downcasting, Explicit and Implicit\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\09.Upcasting and Downcasting, Explicit and Implicit\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T01:12:51.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\09.Upcasting and Downcasting, Explicit and Implicit\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\09.Upcasting and Downcasting, Explicit and Implicit\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T01:12:10.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
