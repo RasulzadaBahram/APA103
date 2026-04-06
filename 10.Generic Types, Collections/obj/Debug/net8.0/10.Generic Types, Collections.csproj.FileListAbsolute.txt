@@ -1,0 +1,15 @@
+C:\Users\Behram\Desktop\APA103\10.Generic Types, Collections\obj\Debug\net8.0\10.Generic Types, Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Behram\Desktop\APA103\10.Generic Types, Collections\obj\Debug\net8.0\10.Generic Types, Collections.AssemblyInfoInputs.cache
+C:\Users\Behram\Desktop\APA103\10.Generic Types, Collections\obj\Debug\net8.0\10.Generic Types, Collections.AssemblyInfo.cs
+C:\Users\Behram\Desktop\APA103\10.Generic Types, Collections\obj\Debug\net8.0\10.Generic Types, Collections.csproj.CoreCompileInputs.cache
+C:\Users\Behram\Desktop\APA103\10.Generic Types, Collections\obj\Debug\net8.0\10.Generic Types, Collections.sourcelink.json
+C:\Users\Behram\Desktop\APA103\10.Generic Types, Collections\bin\Debug\net8.0\10.Generic Types, Collections.exe
+C:\Users\Behram\Desktop\APA103\10.Generic Types, Collections\bin\Debug\net8.0\10.Generic Types, Collections.deps.json
+C:\Users\Behram\Desktop\APA103\10.Generic Types, Collections\bin\Debug\net8.0\10.Generic Types, Collections.runtimeconfig.json
+C:\Users\Behram\Desktop\APA103\10.Generic Types, Collections\bin\Debug\net8.0\10.Generic Types, Collections.dll
+C:\Users\Behram\Desktop\APA103\10.Generic Types, Collections\bin\Debug\net8.0\10.Generic Types, Collections.pdb
+C:\Users\Behram\Desktop\APA103\10.Generic Types, Collections\obj\Debug\net8.0\10.Generic Types, Collections.dll
+C:\Users\Behram\Desktop\APA103\10.Generic Types, Collections\obj\Debug\net8.0\refint\10.Generic Types, Collections.dll
+C:\Users\Behram\Desktop\APA103\10.Generic Types, Collections\obj\Debug\net8.0\10.Generic Types, Collections.pdb
+C:\Users\Behram\Desktop\APA103\10.Generic Types, Collections\obj\Debug\net8.0\10.Generic Types, Collections.genruntimeconfig.cache
+C:\Users\Behram\Desktop\APA103\10.Generic Types, Collections\obj\Debug\net8.0\ref\10.Generic Types, Collections.dll
