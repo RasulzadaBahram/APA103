@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+    background: #2c3e50;
+    color: white;
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    cursor: pointer;
+}
+.navbar ul li:hover {
+    text-decoration: underline;
+    color: #1abc9c;
+}
+
+.hero {
+    text-align: center;
+    padding: 80px 20px;
+    background: #1abc9c;
+    color: white;
+    font-size: 20px;
+}
+
+.hero img {
+    width: 150px;
+    margin-bottom: 20px;
+}
+.hero p {
+    margin-top: 30px;
+}
+
+.portfolio {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.grid {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    flex-wrap: wrap;
+    transition: transform 0.5s ease;
+}
+
+.grid .item:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: transform 0.5s ease;
+}
+
+.item {
+    width: 200px;
+    height: 200px;
+    background: #ccc;
+}
+
+.about {
+    background: #1abc9c;
+    color: white;
+    padding: 60px;
+    text-align: center;
+    min-width: none;    
+    min-height: 400px;
+    justify-content: center;
+}
+
+.about p {
+    margin: 90px 40px;
+    text-align: center;
+    font-size: 18px;
+    justify-content: center;
+}
+
+.contact {
+    padding: 60px;
+    text-align: center;
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.contact h2 {
+    margin-bottom: 40px;
+}
+
+.contact form {
+    width: 100%;
+    max-width: 450px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.contact input,
+.contact textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 0;
+}
+
+.contact button {
+    padding: 10px 20px;
+    background: #1abc9c;
+    border: none;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.footer {
+    background: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 25px 0;
+    font-size: 14px;
+}
