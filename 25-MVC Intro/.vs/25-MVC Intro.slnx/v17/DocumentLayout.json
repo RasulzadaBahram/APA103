@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Behram\\Desktop\\APA103\\25-MVC Intro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{24B62D3D-703F-DC91-A513-C7F6500726DD}|25-MVC Intro.csproj|c:\\users\\behram\\desktop\\apa103\\25-mvc intro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B62D3D-703F-DC91-A513-C7F6500726DD}|25-MVC Intro.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B62D3D-703F-DC91-A513-C7F6500726DD}|25-MVC Intro.csproj|c:\\users\\behram\\desktop\\apa103\\25-mvc intro\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B62D3D-703F-DC91-A513-C7F6500726DD}|25-MVC Intro.csproj|solutionrelative:views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24B62D3D-703F-DC91-A513-C7F6500726DD}|25-MVC Intro.csproj|c:\\users\\behram\\desktop\\apa103\\25-mvc intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24B62D3D-703F-DC91-A513-C7F6500726DD}|25-MVC Intro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +27,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\25-MVC Intro\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\25-MVC Intro\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T03:48:56.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\25-MVC Intro\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\25-MVC Intro\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "Views\\Home\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T03:48:55.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\25-MVC Intro\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
