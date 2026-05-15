@@ -15,10 +15,10 @@ public class ShopController : Controller
     }
     public async Task<IActionResult> Index()
     {
-        List<Product> products = await _context.Products.Where(p => !p.isDeleted)
+        List<Product> products = await _context.Products
+            .Where(p => !p.isDeleted)
             .Include(p => p.ProductImages.Where(pi => pi.IsPrimary != null))
             .ToListAsync();
-
 
         ShopVM shopVM = new()
         {
@@ -31,29 +31,27 @@ public class ShopController : Controller
     {
         if (id is null || id < 1) return BadRequest();
 
-        Product product = await _context.Products
+        Product? product = await _context.Products
             .Where(p => !p.isDeleted)
-            .Include(pi => pi.ProductImages)
+            .Include(p => p.ProductImages)
             .Include(p => p.Category)
             .FirstOrDefaultAsync(p => p.Id == id);
 
-
-        List<Product> realtedProducts = await _context.Products
-        .Where(p => !p.isDeleted && p.CategoryId == product.CategoryId && p.Id != id)
-        .Include(p => p.ProductImages.Where(pi => pi.IsPrimary != null))
-        .Take(4)
-        .ToListAsync();
+        List<Product> relatedProducts = await _context.Products
+            .Where(p => !p.isDeleted)
+            .Include(p => p.ProductImages.Where(pi => pi.IsPrimary != null))
+            .Where(p => p.CategoryId == product.CategoryId && p.Id != id)
+            .Take(4)
+            .ToListAsync();
 
         if (product is null) return NotFound();
 
-        DetailsVM detailVM = new()
+        DetailsVM detailsVM = new()
         {
             Product = product,
-            RelatedProducts = realtedProducts
+            RelatedProducts = relatedProducts
+
         };
-        return View(detailVM);
-
-
-
+        return View(detailsVM);
     }
 }

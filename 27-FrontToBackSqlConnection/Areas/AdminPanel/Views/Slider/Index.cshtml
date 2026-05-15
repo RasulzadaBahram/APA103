@@ -1,4 +1,5 @@
-﻿@model List<Slider>
+﻿@using FrontToBackSqlConnection.Models
+@model List<Slider>
 @{
     int count = 0;
 }
@@ -7,10 +8,8 @@
         <div class="card">
             <div class="card-body">
                 <h4 class="card-title">Slider Table</h4>
-                <p class="card-description">
-                    <a asp-action="create" class="btn btn-outline-success btn-fw">Create</a>
-                </p>
                 <div class="table-responsive">
+                    <a asp-action="create" type="button" class="btn btn-outline-success btn-fw">Create</a>
                     <table class="table table-striped">
                         <thead>
                             <tr>
@@ -24,7 +23,7 @@
                                     Title
                                 </th>
                                 <th>
-                                    Subtitle
+                                    SubTitle
                                 </th>
                                 <th>
                                     Order
@@ -32,7 +31,6 @@
                                 <th>
                                     Settings
                                 </th>
-
                             </tr>
                         </thead>
                         <tbody>
@@ -40,29 +38,27 @@
                             {
                                 <tr>
                                     <td>
-                                        @(++count)
+                                        <p>@(++count)</p>
                                     </td>
                                     <td>
-                                        <img src="~/assets/images/website-images/@slider.Image" />
+                                        <img src="~/assets/images/website-images//@slider.Image" />
                                     </td>
                                     <td>
-                                        @slider.Title
+                                        <p>@slider.Title</p>
                                     </td>
                                     <td>
-                                        @slider.SubTitle
+                                        <p>@slider.SubTitle</p>
                                     </td>
                                     <td>
-                                        @slider.Order
+                                        <p>@slider.Order</p>
                                     </td>
-
                                     <td>
-                                        <a asp-action="update" asp-route-id="@slider.Id" class="btn btn-outline-warning btn-fw">Edit</a>
-                                        <a asp-action="delete" asp-route-id="@slider.Id" class="btn btn-outline-danger btn-fw">Delete</a>
-                                        <a asp-action="details" asp-route-id="@slider.Id" class="btn btn-outline-info btn-fw">Detail</a>
+                                        <a asp-action="update" asp-route-id="@slider.Id" type="button" class="btn btn-outline-warning  btn-fw">Edit</a>
+                                        <a asp-action="delete" asp-route-id="@slider.Id" type="button" class="btn btn-outline-danger  btn-fw">Delete</a>
+                                        <a asp-action="detail" asp-route-id="@slider.Id" type="button" class="btn btn-outline-info  btn-fw">Detail</a>
                                     </td>
                                 </tr>
                             }
-
                         </tbody>
                     </table>
                 </div>
