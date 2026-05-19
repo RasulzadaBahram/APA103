@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Migrations\\20260519232023_tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260519232023_tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\viewmodels\\product\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\viewmodels\\product\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\viewmodels\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\viewmodels\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\viewmodels\\product\\productgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\viewmodels\\product\\productgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,46 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\viewmodel\\product\\productgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\viewmodel\\product\\productgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\viewmodel\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\viewmodel\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\viewmodel\\slider\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\viewmodel\\slider\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\areas\\adminpanel\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|c:\\users\\behram\\desktop\\apa103\\27-fronttobacksqlconnection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24213718-B9DE-492B-9B7B-C6404B7D0DDE}|FrontToBackSqlConnection.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,210 +66,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
+              "DocumentIndex": 0,
+              "Title": "20260519232023_tags.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Migrations\\20260519232023_tags.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260519232023_tags.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Migrations\\20260519232023_tags.cs",
+              "RelativeToolTip": "Migrations\\20260519232023_tags.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T03:37:50.56Z",
+              "WhenOpened": "2026-05-19T23:20:23.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAALAAAAAAAAAAAAAkwL4AAAB8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-19T03:33:56.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModel\\Product\\ProductCreateVM.cs",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\ViewModel\\Product\\ProductCreateVM.cs",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModel\\Product\\ProductCreateVM.cs",
-              "RelativeToolTip": "Areas\\AdminPanel\\ViewModel\\Product\\ProductCreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T03:32:08.614Z",
+              "WhenOpened": "2026-05-19T23:16:58.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAmwC4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-19T03:31:45.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAE4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-19T03:27:40.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SliderCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModel\\Slider\\SliderCreateVM.cs",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\ViewModel\\Slider\\SliderCreateVM.cs",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModel\\Slider\\SliderCreateVM.cs",
-              "RelativeToolTip": "Areas\\AdminPanel\\ViewModel\\Slider\\SliderCreateVM.cs",
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\ProductImage.cs",
+              "RelativeToolTip": "Models\\ProductImage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T03:26:25.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductGetVM.cs",
-              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModel\\Product\\ProductGetVM.cs",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\ViewModel\\Product\\ProductGetVM.cs",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModel\\Product\\ProductGetVM.cs",
-              "RelativeToolTip": "Areas\\AdminPanel\\ViewModel\\Product\\ProductGetVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T03:26:12.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAD4v1YAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T03:25:18.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-17T20:04:07.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA1wEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T00:27:41.526Z",
+              "WhenOpened": "2026-05-19T23:16:57.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAswEYAAAAAAAAAAAAAAA==",
+              "Title": "ProductGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModels\\Product\\ProductGetVM.cs",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\ViewModels\\Product\\ProductGetVM.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModels\\Product\\ProductGetVM.cs",
+              "RelativeToolTip": "Areas\\AdminPanel\\ViewModels\\Product\\ProductGetVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T00:27:40.142Z",
+              "WhenOpened": "2026-05-19T23:15:10.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAkwKIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T00:27:38.286Z",
+              "WhenOpened": "2026-05-19T23:14:34.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAcBAAAAAAAAAAD4vxUBAACCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-15T00:26:24.111Z"
+              "DocumentIndex": 7,
+              "Title": "ProductTag.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\ProductTag.cs",
+              "RelativeDocumentMoniker": "Models\\ProductTag.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\ProductTag.cs",
+              "RelativeToolTip": "Models\\ProductTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:14:15.309Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Models\\Tag.cs",
+              "RelativeToolTip": "Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:13:58.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:11:58.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
               "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Controllers\\ShopController.cs",
               "RelativeToolTip": "Controllers\\ShopController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAIwDgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T00:25:56.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T00:25:43.965Z"
+              "WhenOpened": "2026-05-19T23:10:51.66Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBsAAAAKAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAMcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T23:10:07.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T23:09:36.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T23:08:48.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModels\\Product\\ProductUpdateVM.cs",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\ViewModels\\Product\\ProductUpdateVM.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModels\\Product\\ProductUpdateVM.cs",
+              "RelativeToolTip": "Areas\\AdminPanel\\ViewModels\\Product\\ProductUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T00:24:57.492Z"
+              "WhenOpened": "2026-05-19T23:07:54.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModels\\Product\\ProductCreateVM.cs",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\ViewModels\\Product\\ProductCreateVM.cs",
+              "ToolTip": "C:\\Users\\Behram\\Desktop\\APA103\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\ViewModels\\Product\\ProductCreateVM.cs",
+              "RelativeToolTip": "Areas\\AdminPanel\\ViewModels\\Product\\ProductCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T05:13:51.718Z",
+              "EditorCaption": ""
             }
           ]
         }

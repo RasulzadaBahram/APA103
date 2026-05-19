@@ -1,10 +1,10 @@
-﻿@using FrontToBackSqlConnection.Areas.AdminPanel.ViewModels
-@model ProductCreateVM
+﻿@using FrontToBackSqlConnection.Areas.AdminPanel.ViewModels.Product
+@model ProductUpdateVM
 <div class="row">
     <div class="col-md-6 grid-margin stretch-card">
         <div class="card">
             <div class="card-body">
-                <h4 class="card-title">Create Product</h4>
+                <h4 class="card-title">Update Product</h4>
 
                 <form class="forms-sample" method="post" enctype="multipart/form-data">
                     <div class="form-group">
@@ -24,20 +24,18 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="CategoryId">Category</label>
+                        <label for="name">Category</label>
                         <select class="form-control" asp-for="CategoryId" asp-items="new SelectList(Model.Categories, nameof(Category.Id), nameof(Category.Name))">
                             <option selected disabled>Choose Category</option>
                         </select>
                         <span asp-validation-for="CategoryId" class="text-danger"></span>
                     </div>
-
                     <div class="form-group">
                         <label for="TagIds">Tag</label>
-                        <select class="form-control" asp-for="TagIds" asp-items="new SelectList(Model.Tags, nameof(Tag.Id), nameof(Tag.Name))" multiple>
+                        <select class="form-control" asp-for="TagIds" asp-items="new SelectList(Model.Tags, nameof(Tag.Id), nameof(Tag.Name))">
                         </select>
-                        <span asp-validation-for="TagIds" class="text-danger"></span>
+                        <span asp-validation-for="CategoryId" class="text-danger"></span>
                     </div>
-
                     <div class="form-group">
                         <label for="name">Description</label>
                         <input asp-for="Description" class="form-control" placeholder="Description">
