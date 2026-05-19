@@ -1,4 +1,4 @@
-﻿using FrontToBackSqlConnection.Areas.AdminPanel.ViewModels.Sliders;
+﻿using FrontToBackSqlConnection.Areas.AdminPanel.ViewModel.Slider;
 using FrontToBackSqlConnection.Data;
 using FrontToBackSqlConnection.Models;
 using FrontToBackSqlConnection.Utilities.Enum;

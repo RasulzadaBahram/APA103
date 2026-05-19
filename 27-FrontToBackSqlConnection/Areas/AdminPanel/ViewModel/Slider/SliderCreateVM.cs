@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace FrontToBackSqlConnection.Areas.AdminPanel.ViewModels.Sliders;
+namespace FrontToBackSqlConnection.Areas.AdminPanel.ViewModel.Slider;
 
 public class SliderCreateVM
 {

@@ -1,5 +1,4 @@
-﻿
-namespace FrontToBackSqlConnection.Areas.AdminPanel.ViewModels.Sliders;
+﻿namespace FrontToBackSqlConnection.Areas.AdminPanel.ViewModel.Slider;
 
 public class SliderUpdateVM
 {
