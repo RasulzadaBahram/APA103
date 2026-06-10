@@ -3,12 +3,14 @@ using FrontToBackSqlConnection.Data;
 using FrontToBackSqlConnection.Models;
 using FrontToBackSqlConnection.Utilities.Enum;
 using FrontToBackSqlConnection.Utilities.Extensions;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace FrontToBackSqlConnection.Areas.AdminPanel.Controllers
 {
     [Area("AdminPanel")]
+    [Authorize(Roles ="Admin,Moderator")]
     public class ProductController : Controller
     {
         private readonly AppDbContext _context;

@@ -1,4 +1,6 @@
 using FrontToBackSqlConnection.Data;
+using FrontToBackSqlConnection.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,7 +12,15 @@ builder.Services.AddControllersWithViews();
 //    opt.UseSqlServer("Server=.\\SQLEXPRESS;Database=FrontToBackDb;Trusted_Connection=True;TrustServerCertificate=True");
 //});
 builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("default")));
+builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
+{
+    opt.Password.RequireNonAlphanumeric = true;
+    opt.Password.RequiredLength = 8;
+    opt.User.RequireUniqueEmail = true;
+    opt.Lockout.MaxFailedAccessAttempts = 3;
+    opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(3);
 
+}).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 
 var app = builder.Build();
 

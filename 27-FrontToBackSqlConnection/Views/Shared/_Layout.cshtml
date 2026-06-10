@@ -125,12 +125,24 @@
                                             </button>
                                             <ul class="dropdown-menu"
                                                 aria-labelledby="settingButton">
-                                                <li>
-                                                    <a class="dropdown-item" href="my-account.html">My account</a>
-                                                </li>
-                                                <li>
-                                                    <a class="dropdown-item" href="login-register.html">Login | Register</a>
-                                                </li>
+                                                @if (User.Identity.IsAuthenticated)
+                                                {
+                                                    <li>
+                                                        <a class="dropdown-item">@User.Identity.Name</a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" asp-controller="account" asp-action="logout">Logout</a>
+                                                    </li>
+                                                }
+                                                else
+                                                {
+                                                    <li>
+                                                        <a class="dropdown-item" asp-controller="account" asp-action="register">Register</a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" asp-controller="account" asp-action="login">Login</a>
+                                                    </li>
+                                                }
                                             </ul>
                                         </li>
                                         <li class="d-none d-lg-block">
@@ -165,7 +177,7 @@
                                 <nav class="main-nav">
                                     <ul>
                                         <li class="drop-holder">
-                                            <a asp-controller="Home" asp-action="Index">Home</a>
+                                            <a href="index.html">Home</a>
                                             <ul class="drop-menu">
                                                 <li>
                                                     <a href="index.html">Home One</a>
@@ -176,13 +188,13 @@
                                             </ul>
                                         </li>
                                         <li class="megamenu-holder">
-                                            <a asp-controller="Shop" asp-action="Index">Shop</a>
+                                            <a href="shop.html">Shop</a>
                                             <ul class="drop-menu megamenu">
                                                 <li>
                                                     <span class="title">Shop Layout</span>
                                                     <ul>
                                                         <li>
-                                                            <a asp-controller="Shop" asp-action="Index" >Shop Default</a>
+                                                            <a href="shop.html">Shop Default</a>
                                                         </li>
                                                         <li>
                                                             <a href="shop-grid-fullwidth.html">Shop Grid Fullwidth</a>
@@ -275,7 +287,7 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <a asp-area="AdminPanel" asp-controller="dashboard" asp-action="index">Admin Panel</a>
+                                            <a href="contact.html">Contact Us</a>
                                         </li>
                                     </ul>
                                 </nav>
@@ -289,7 +301,7 @@
                     <div class="header-nav position-relative">
                         <div class="row align-items-center">
                             <div class="col-lg-3 col-6">
-                                <a asp-controller="Home" asp-action="index">
+                                <a href="index.html" class="header-logo">
                                     <img src="~/assets/images/logo/dark.png" alt="Header Logo" />
                                 </a>
                             </div>
@@ -309,13 +321,13 @@
                                                 </ul>
                                             </li>
                                             <li class="megamenu-holder">
-                                                <a asp-controller="Home" asp-action="index">Shop</a>
+                                                <a href="shop.html">Shop</a>
                                                 <ul class="drop-menu megamenu">
                                                     <li>
                                                         <span class="title">Shop Layout</span>
                                                         <ul>
                                                             <li>
-                                                                <a asp-controller="Home" asp-action="index">Shop Default</a>
+                                                                <a href="shop.html">Shop Default</a>
                                                             </li>
                                                             <li>
                                                                 <a href="shop-grid-fullwidth.html">Shop Grid Fullwidth</a>
